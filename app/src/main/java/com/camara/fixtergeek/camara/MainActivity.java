@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int VIDEO_CAPTURE = 101;
     private Uri fileUri;
 
-    //Esto se podria si fuera foto lo que esta comentado se cambia 
+    //Esto se podria si fuera foto lo que esta comentado es lo que cambia
     //private static final int CAMERA_CAPTURE = 1;
 
     @Override
