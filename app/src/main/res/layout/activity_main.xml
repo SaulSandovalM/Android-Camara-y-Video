@@ -17,4 +17,6 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:onClick="videoGrabar" />
+
+
 </android.support.constraint.ConstraintLayout>
